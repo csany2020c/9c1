@@ -21,8 +21,6 @@ hr{
 }
 
 div#kozepso tr, td{
-    border: 3px white solid;
-    border-radius:50px;
     padding:10px;
 }
 
@@ -51,7 +49,19 @@ table{
 
 div#kozepso table td {
     box-shadow: 0 0 0 1pt grey;
+    background-color:#fff;
+    border:1px solid white; 
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
     color:white;
+}
+
+div#kozepso table td:first-of-type{
+    border: 2px white solid;
+    border-radius: 50px;
 }
 caption{
     text-align:center;
