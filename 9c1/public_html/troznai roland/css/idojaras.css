@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-    text-align: center;  
+    text-align: center;
+    font-style: italic;
 }
 
 h2 {
@@ -13,7 +14,7 @@ h2 {
 }
 
 p {
-    background-color: white;
+    
 }
 
 table {
@@ -29,7 +30,11 @@ table {
     widht: 250px;
 }
 
-div.box img {
+div.doboz{
+    background-color: white;
+}
+
+div.doboz img {
     widht: cale(100%-15px);
     border: white 5px solid;
     box-shadow: 0px 0px 0px 1px #00000077;
@@ -38,3 +43,16 @@ div.box img {
     margin-right: auto;
 }
 
+div.doboz table td {
+    -vebkit-box-shadow: 0px 0px 5px 5px #ccc;
+    -moz-box-shadow: 0px 0px 5px 5px #ccc;
+    box-shadow: 0px 0px 6px 6px #ccc;
+    background-color: #fff;
+    border:5px soid white;
+    height: 35px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    widht: 25px;
+    color: white;
+}
