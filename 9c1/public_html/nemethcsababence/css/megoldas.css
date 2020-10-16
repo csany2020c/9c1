@@ -1,14 +1,16 @@
 body{
     background-color: #FFEBCD;
-
 }  
 
 #borderszine{
     background-color: white;    
 
 }
-#kozep,h2{
+#kozep{
     text-align: center;  
+}
+#h2{
+    text-align: center;
 }
 #tablaszine{
     background-color: white;
@@ -26,16 +28,42 @@ body{
     border: 2px white;
     border-radius: 5px;
 }
-
+.kor2{
+    border: 2px white;
+    border-radius: 5px;
+}
 .kor1{
     border: 2px white;
     border-radius: 5px;
 }
-.kor2{
-  border: 2px white;
-  border-radius: 5px;
-}
+
 .kor3{
-  border: 2px white;
-  border-radius: 5px;
+    border: 2px white;
+    border-radius: 5px;
+}
+table>caption {
+    margin-bottom: 5px;
+    color: white;
+    margin-top: 20px
+}
+table{
+    border-spacing: 20px;
+    border-radius: 5px;
+    color:white;
+    caption-side: bottom;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+div.box img{
+    width: calc(100% - 15px);
+    border: white 5px solid;
+    box-shadow: 0px 0pxm 0px 1px #00000077;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    background-color: white;    
 }
