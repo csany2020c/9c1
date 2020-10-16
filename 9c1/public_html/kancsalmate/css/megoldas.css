@@ -10,12 +10,21 @@ and open the template in the editor.
 body{
     background-color: #FFEBCD;
 }
-#kozep{
+.kozep{
    text-align: center;
 }
 p{
     text-align: justify;
+    background-color: #ffffff;
+    color: #A52A2A;
 }
-
-    
-
+h2{
+    text-align: center;
+    border-color: #A52A2A;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #ffffff
+}
+h2{
+    color: #A52A2A
+}
