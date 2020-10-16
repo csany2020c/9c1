@@ -11,7 +11,7 @@ and open the template in the editor.
 
 * {text-align: center;
    color: #A52A2A;
-   margin: left}
+   margin: auto}
 
 body{
     background-color: #FFEBCD
@@ -67,7 +67,9 @@ div{
     margin: 10px;
     border-radius: 180px;
     padding-left: 0px; 
-    padding-right: 0px
+    padding-right: 0px;
+    
+    
 }
 .piros{
     background-color: #FF0000;
@@ -75,7 +77,8 @@ div{
     padding: 15px;
     border-radius: 100px;
     padding-right: 1px;
-    padding-left: 1px
+    padding-left: 1px;
+    
 }
 *{
    margin-top: 5px ;
@@ -84,11 +87,21 @@ div{
    margin-left: 20px;
 }
 img {
-  padding: 5px;
-  width: 1200px;
   align-content: center;
-  box-shadow: 3px 3px 8px 5px grey
+  width: 85%;
+  height: auto;
+  text-align: center;
+  border: grey 2px solid;
+  padding: 4px
+   
+  
+   
 }
-b{
+
+div{
+    margin-left:100px;
+    margin-right:100px;
+}
+table>tbody>tr>td>b{
     color:white;
 }
