@@ -1,6 +1,6 @@
 h1{
    text-align: center;
-    text-decoration: underline;
+   font-style: italic;
 }
 body {
     color: #A52A2A;
@@ -9,8 +9,7 @@ body {
 h2{
     text-align: center;
     background-color: white;
-    border-style: none;
-    
+    border-style: none;   
 }
 div.box img{
     width: calc(100% - 15px);
@@ -20,14 +19,15 @@ div.box img{
     margin-left: auto;
     margin-right: auto;
 }
-p{
+div{
     background-color: white;
 }
 valami{
-    border: black;
+    border:black;
     padding-left: 10px;
     width: 80px;
-    size:20px; 
+    size: 20px; 
+   
 }
 id{
     border: black;
@@ -39,14 +39,18 @@ table{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 250px;
-    
+    width: 250px;  
+    font-size: large;
 }
-table td:nth-child ()1){
+table td:nth-child(1){
     background-color: green;
 }
 table td:nth-child(2){
     background-color:blue; 
 }
-
-
+table td:nth-child(3){
+    background-color: red;
+}
+caption{
+    color: black;
+}
