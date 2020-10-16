@@ -32,7 +32,8 @@ h1{
     font-style:italic  ;
     margin-left: 500px;
     margin-right: 500px;
-    position: 
+    padding: auto;
+    padding-bottom: auto;
 
 
 
@@ -51,12 +52,47 @@ div{
 
 }
 img{
-    border: transparent;
+    
 
 }
+
+table{
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    caption-side: bottom;
+    color: white;
+
+}
+
+table td{
+    font-family: sans-serif;    
+    border: white 5px solid;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 5px #000000;
+    
+}
+
+table td:nth-child(1){
+    background-color: green;
+    
+    
+    
+}
+
+
+
+table td:nth-child(2){
+    background-color: #33b5e5;
+}
+table td:nth-child(3){
+    background-color: red;
+}
+
 tr{
     background-color: white;
-    margin-left: 650px;
-    margin-right: 650px;
-
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
 }
