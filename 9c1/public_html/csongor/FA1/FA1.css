@@ -1,15 +1,13 @@
 body {background-color: #E9967A}
 
 .center {background-color: white;
-         border:  red 1px solid;
-         padding: 8px;
+         border:  red 5px solid;
          border-radius: 10px;
          width: 50%;
          margin-bottom: 8px}
 
-#center2 {border-bottom: #A52A2A 2px solid; 
-          width: 25%;
-          margin-bottom: 8px}
+h1 {border-bottom: #A52A2A 2px solid;
+    width: 25%}
 
 * {margin-left: auto; 
    margin-right:auto;
@@ -49,7 +47,17 @@ img {width: 80%;
 
 h2 {text-decoration: underline}
 
-div {font-size: 20px}
+div {font-size: 20px;
+     padding: 8px}
 
 table td {border: 4px solid white;
           border-spacing: 8px}
+
+#pepe2 {margin-right: auto;
+        margin-left: auto}
+
+#pepe {background-color: white;
+       border:  red 5px solid;
+       border-radius: 10px;
+       width: 50%;
+       margin-bottom: 8px;}
