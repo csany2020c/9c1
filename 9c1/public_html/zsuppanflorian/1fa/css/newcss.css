@@ -100,7 +100,7 @@ img{
     display: block;
     width: 96%;
     margin:auto;
-    border:1px black solid;
+    box-shadow: 0px 0px 5px 1px;
     padding:5px;
 }
 
