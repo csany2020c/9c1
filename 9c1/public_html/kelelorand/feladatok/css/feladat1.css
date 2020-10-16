@@ -23,11 +23,13 @@ div {
 }
 
 h1 {
-    text-align: center;
+   text-align: center;
     color:#A52A2A;
-    font-style: italic;
-    text-decoration: underline;
-    
+    border-bottom: #E9967A 3px solid;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2 {
@@ -38,7 +40,7 @@ h2 {
 
 p {
     color:#A52A2A;
-   
+   padding: 10px;
 }
 
 
@@ -60,7 +62,8 @@ img {
 
 table>tbody>tr>td {
     border: white 5px solid;
-    
+  
+       
 }
     
     table {
@@ -79,31 +82,36 @@ table>tbody>tr>td {
     
     table td:nth-child(1){
         background-color: green;
-        border-radius: 30px;
+        
         border-color: white;
         box-shadow: 0px 0px 3px 3px black;
-        font-size: 40px;
+        font-size: 20px;
+        text-align: center;
+      min-height: 35px;
+    border-radius: 45%;
         
     }
     
     table td:nth-child(2){
         background-color: red;
-        border-radius: 25px;
+         min-height: 35px;
+    border-radius: 50%;
         border-color: white;
         box-shadow: 0px 0px 3px 3px black;
-        font-size: 40px;
-        
+        font-size: 20px;
+           text-align: center;
     }
     
     table td:nth-child(3){
         background-color: blue;
-        border-radius: 25px;
+         min-height: 35px;
+    border-radius: 45%;
         border-color: white;
         box-shadow: 0px 0px 3px 3px black;
-        font-size: 40px;
-        
+        font-size: 20px;
+           text-align: center;
     }
     
     table {
-        border-spacing: 20px;
+        border-spacing: 10px;
     }
