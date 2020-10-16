@@ -35,7 +35,7 @@ table>tbody>tr>td{
     color: white;
     border-radius: 10px;
     border: white 5px solid;
-    box-shadow: 3px 3px 8px 5px grey;
+    box-shadow: 0px 0px 6px 4px grey;
     font-size: 20px;
     
 
@@ -104,4 +104,13 @@ div{
 }
 table>tbody>tr>td>b{
     color:white;
+}
+table{
+    border-spacing: 25px
+}
+h1{
+    border-bottom: 1px #E9967A solid;
+    margin-left: 200px; 
+    margin-right: 200px;
+    padding-bottom: 10px;
 }
