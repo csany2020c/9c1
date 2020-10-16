@@ -8,10 +8,17 @@ body {
 }
 h2{
     text-align: center;
+    background-color: white;
+    border-style: none;
+    
 }
-kep{
-    box-shadow:50px;
-    border: black;
+div.box img{
+    width: calc(100% - 15px);
+    box-shadow: 0px 0px 0px 1px #00000077;
+    border: black 5px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 p{
     background-color: white;
@@ -19,6 +26,27 @@ p{
 valami{
     border: black;
     padding-left: 10px;
-    width: 80px
+    width: 80px;
+    size:20px; 
 }
+id{
+    border: black;
+}
+table{
+    border-spacing: 20px;
+    color: white;
+    caption-side: bottom;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    
+}
+table td:nth-child ()1){
+    background-color: green;
+}
+table td:nth-child(2){
+    background-color:blue; 
+}
+
 
