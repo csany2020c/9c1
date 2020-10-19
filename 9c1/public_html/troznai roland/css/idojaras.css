@@ -35,7 +35,7 @@ div.doboz{
 }
 
 div.doboz img {
-    widht: cale(100%-15px);
+    width: calc(100% - 15px);
     border: white 5px solid;
     box-shadow: 0px 0px 0px 1px #00000077;
     display: block;
@@ -44,15 +44,23 @@ div.doboz img {
 }
 
 div.doboz table td {
-    -vebkit-box-shadow: 0px 0px 5px 5px #ccc;
-    -moz-box-shadow: 0px 0px 5px 5px #ccc;
-    box-shadow: 0px 0px 6px 6px #ccc;
-    background-color: #fff;
-    border:5px soid white;
-    height: 35px;
-    border-radius: 50%;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    widht: 25px;
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
     color: white;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px 2px #00000077;
+    border: white 5px solid;
+}
+
+div.box table caption{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: gray;
+    font-style: italic;
 }
