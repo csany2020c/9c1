@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.13., 12:57:58
+    Author     : user
+*/
+
+body {
+    background-color: #FFEBCD;
+    
+}
+
+div {
+  
+        border: #A52A2A 1px solid;
+        margin: 20px;
+       border-radius: 10px;
+        background-color: white;
+     
+}
+
+h1 {
+   text-align: center;
+    color:#A52A2A;
+    border-bottom: #E9967A 3px solid;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+     text-align: center;
+      color:#A52A2A;
+
+}
+
+p {
+    color:#A52A2A;
+   padding: 10px;
+}
+
+
+img {
+    display: block;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: white 2px solid;
+    box-shadow: 0px 0px 1px 1px black;
+   
+    
+    
+    
+}
+    
+    
+
+
+table>tbody>tr>td {
+    border: white 5px solid;
+  
+       
+}
+    
+    table {
+        caption-side: bottom;
+        
+        
+        margin-right: auto;
+    margin-left: auto;
+   
+    }
+    
+    table>caption {
+        color: grey;
+        
+    }
+    
+    table td:nth-child(1){
+        background-color: green;
+        
+        border-color: white;
+        box-shadow: 0px 0px 3px 3px black;
+        font-size: 20px;
+        text-align: center;
+      min-height: 35px;
+    border-radius: 45%;
+        
+    }
+    
+    table td:nth-child(2){
+        background-color: red;
+         min-height: 35px;
+    border-radius: 50%;
+        border-color: white;
+        box-shadow: 0px 0px 3px 3px black;
+        font-size: 20px;
+           text-align: center;
+    }
+    
+    table td:nth-child(3){
+        background-color: blue;
+         min-height: 35px;
+    border-radius: 45%;
+        border-color: white;
+        box-shadow: 0px 0px 3px 3px black;
+        font-size: 20px;
+           text-align: center;
+    }
+    
+    table {
+        border-spacing: 10px;
+    }

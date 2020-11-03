@@ -1,0 +1,74 @@
+body {background-color: #E9967A}
+
+.center {background-color: white;
+         border:  red 5px solid;
+         border-radius: 10px;
+         width: 50%;
+         margin-bottom: 8px}
+
+h1 {border-bottom: #A52A2A 2px solid;
+    width: 25%;}
+
+* {margin-left: auto; 
+   margin-right:auto;
+   text-align: center; 
+   color: #A52A2A;
+   font-family: sans-serif}
+
+table {margin-left: auto;
+       margin-left: auto;
+       padding: 10px;
+       border-spacing: 10px;
+       caption-side: bottom;
+       font-size: 30px}
+
+img {width: 80%;
+     margin-left: auto;
+     margin-right: auto}
+
+.cs {border: white 2px solid;
+     border-radius: 25px;
+     box-shadow: 4px 4px 3px 6px black;
+     padding: 8px;
+     color: white;
+     background-color: red}
+
+.css {border: white 2px solid;
+      border-radius: 25px;
+      box-shadow: 0px 0px 5px 5px black;
+      padding: 10px;
+      color: white;
+      background-color: blue}
+
+.ccs {border: white 2px solid;
+      border-radius: 25px;
+      box-shadow: 4px 4px 3px 6px black;
+      padding: 8px;
+      color: white;
+      background-color: green}
+
+h2 {text-decoration: underline}
+
+div {font-size: 20px;
+     padding: 8px}
+
+#pepe2 {margin-right: auto;
+        margin-left: auto}
+
+#pepe {background-color: white;
+       border:  red 5px solid;
+       border-radius: 10px;
+       width: 50%;
+       margin-bottom: 8px;}
+
+#tudod {font-size: 15px;
+        color:gray}
+
+#lorand {border: red 4px solid;
+         background-color: white;
+         width: 52.5%;
+         border-radius: 25px}
+
+#center3 {background-color: white;
+          border: red 0px solid;
+          border-radius: 100px}

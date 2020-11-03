@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.09.29., 13:40:56
+    Author     : dani
+*/
+
+body{
+    background-color: blanchedalmond;
+
+}
+h2{
+    font-family:sans-serif;
+    text-align: center;
+
+
+    color: #ff0033;
+}
+
+p {
+    font-family: sans-serif;
+    color: #ff0033;
+    text-align:center;
+    background-color: white;
+}
+h1{
+    font-family: sans-serif;
+    color: #ff0033;
+    font-style:italic  ;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: auto;
+    padding-bottom: auto;
+
+
+
+}
+div{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: #ff0033 1px solid;
+    border-radius: 15px;
+
+
+
+
+
+}
+img{
+    
+
+}
+
+table{
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    caption-side: bottom;
+    color: white;
+
+}
+
+table td{
+    font-family: sans-serif;    
+    border: white 5px solid;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 5px #000000;
+    
+}
+
+table td:nth-child(1){
+    background-color: green;
+    
+    
+    
+}
+
+
+
+table td:nth-child(2){
+    background-color: #33b5e5;
+}
+table td:nth-child(3){
+    background-color: red;
+}
+
+tr{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}

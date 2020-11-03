@@ -1,0 +1,94 @@
+h1{
+   text-align: center;
+   font-style: italic;
+}
+body {
+    color: #A52A2A;
+    background-color: #FFEBCD;
+}
+h2{
+    text-align: center;
+    background-color: white;
+    border-style: none;   
+}
+div.box img{
+    width: calc(100% - 15px);
+    box-shadow: 0px 0px 0px 1px #00000077;
+    border: black 3px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    background-color: white;
+}
+valami{
+    border:black;
+    padding-left: 10px;
+    width: 80px;
+    size: 20px; 
+   
+}
+id{
+    border: black;
+}
+table{
+    border-spacing: 20px;
+    color: white;
+    caption-side: bottom;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;  
+    font-size: large;
+}
+table td:nth-child(1){
+    background-color: green;
+}
+table td:nth-child(2){
+    background-color:blue; 
+}
+table td:nth-child(3){
+    background-color: red;
+}
+caption{
+    color: black;
+}
+div.valami{
+    width: 70%;
+    background-color: white;
+    border: darksalmon 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 35px;
+}
+table td{
+   border-radius: 25px;
+   width: 40px;
+   height: 40px;
+   margin: 0px;
+   padding: 0px;
+   background-color: red;
+   border: white 5px solid;
+   box-shadow: 0px 0px 10px 2px #00000077;
+   color: white;
+   text-align: center;
+   font-weight: bold;
+}
+div.valami1{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: darksalmon 1px solid;
+    padding-bottom: 10px;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 10px;
+    border-radius: 35px;
+    font-weight: normal;
+}
+
+
+
