@@ -1,0 +1,91 @@
+body{background-color: black
+}   
+div.frame{
+    background-color: burlywood;
+    padding: 20px;
+    width: 1000px;
+    margin-left:auto;
+    margin-right :auto
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+p{
+    line-height: 24px;
+    font-size: 15px;
+}
+
+table{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-collapse: collapse;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+table th{
+    background-color: black;
+    padding: 6px;
+    color: burlywood;
+}
+
+
+table td{
+    font-size: 15px;
+    padding: 6px;
+    text-align: center;
+}
+
+table tr:nth-child(2n){
+    background-color: bisque;
+}
+
+table tr:nth-child(2n+1){
+    background-color: wheat;
+}
+
+div#lyrics>p{
+    border-bottom: black 1px solid;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    width: 480px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50px
+}
+
+div#impressum>h2, div#lyrics>h2{
+    text-align: center;
+}
+
+div#impressum>h3, div#lyrics>h3{
+    text-align: center;
+}
+
+div#impressum>a{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 12px;}
+
+* {font-family:sans-serif}
+
+caption {color: black;
+         font-size: 12px;
+         text-align: left}
