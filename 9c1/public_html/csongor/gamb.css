@@ -1,0 +1,19 @@
+@font-face{
+    font-family: nemet;
+    src: url("Winter Fall.ttf");
+}
+
+.gomb {font-family: nemet;
+       color: blue;
+       width: 150px;
+       height: 30px;
+       display: inline-block;
+       text-align: center;
+       font-size: 20px;
+       background-color: yellow;
+       padding-top: 10px;
+       margin-top: 0px}
+
+.gomb:hover {background-color: yellowgreen}
+
+.gomb:active {background-color: red}
