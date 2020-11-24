@@ -1,11 +1,13 @@
-* {font-family: gabriola}
+@font-face {font-family: piano;
+            src: url("PianoFonte.ttf")}
+
+* {font-family: piano}
 
 p { color: white;
     font-family:gabriola;
     font-size: 20px}
 
 h1 {color:white; 
-    font-family:gabriola; 
     font-size: 60px; 
     text-align:center}
 

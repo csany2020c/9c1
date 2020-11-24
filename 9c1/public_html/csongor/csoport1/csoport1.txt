@@ -1,0 +1,18 @@
+index.html módosítása
+
+A teljes oldal tartalmát tegye egy DIV keretbe, amelyet a frame osztállyal lát el.
+Készítse el a táblázat fejlécét a fejléc táblázat elemeket használva.
+Az oldal címe (Blinded By The Light) nem jelenik meg a böngésző keretén, pedig a title elem használva van. Keresse meg a hibát.
+Szúrja be az mm.jpg képet a történet után a megfelelő helyre.
+Ha a kép nem jelenik meg vagy az egeret ráhúzzuk, a "Manfred Mann's earth band, Zelt-Musik-Festival 2017 in Freiburg, Germany" felirat jelenjen meg.
+
+index.css módosítása
+
+Az oldal háttere legyen fekete.
+Az oldalon lévő összes szöveg talpatlan betűtípussal jelenjen meg.
+A frame osztály szélességét állítsa 1000 pixelre.
+A frame legyen középen.
+A táblázat címe legyen fekete, balrazárt és 12 pontos betűméretű.
+A dalszöveg legyen középrezárt.
+A dalszövegnél a versszakok alatt legyen egy vékony vonal teljes szélességben.
+A képnek legyen lekerekített a szegélye.
