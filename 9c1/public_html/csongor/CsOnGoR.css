@@ -1,5 +1,8 @@
-p { color:white;
-    font-family:arial}
+* {font-family: gabriola}
+
+p { color: white;
+    font-family:gabriola;
+    font-size: 20px}
 
 h1 {color:white; 
     font-family:gabriola; 
@@ -7,7 +10,7 @@ h1 {color:white;
     text-align:center}
 
 h2 {color:white; 
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: underline}
 
 h3 {color: white;
@@ -52,25 +55,25 @@ th {text-decoration: underline}
 
 #center5 {margin-left: 275px}
 
-.gray {color: black}
+.gray {color: white}
 
-div#menu {color: white;
-          display: inline;}
+#menu {color: white;
+       display: inline;}
 
 div#menu>ul {   display: block;
                 margin-bottom: 10px;
                 padding: 10px;
                 text-align: center;
                 border: white 4px solid;
-                border-radius: 25px}
+                border-radius: 25px;}
 
 div#menu>ul>li{
     text-align: center;
     color: white;
     display: inline-block;
-    font-size: 20px;
-    width: 128px;
-    text-decoration: underline}
+    font-size: 30px;
+    text-decoration: underline;
+    width: 200px;}
 
 div#menu>ul>li:hover{color:red}
 
