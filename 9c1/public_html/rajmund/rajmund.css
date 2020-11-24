@@ -50,8 +50,8 @@ li {
     margin: 0;
     padding: 36px 0 36px 84px;
     list-style: none;
-    background-image: url("letoltes.png);
-        background-repeat: no-repeat;
-        background-position: left center;
-        background-size: 40px;
-        }
+    background-image: url("letoltes.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+}
