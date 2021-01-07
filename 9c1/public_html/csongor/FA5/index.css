@@ -1,0 +1,33 @@
+* {font-family: sans-serif;}
+
+body {background-color: #82BEF3;}
+
+#frame {width: 70%;
+        margin-left: auto;
+        margin-right: auto;}
+
+img {margin-left: 80%;}
+
+#head {background-color: #1D6BAF;}
+
+.bsod {color: #4483BD;
+       padding: 100px;}
+
+.smile, .text {color: white;}
+
+.smile {font-size: 100px;
+        position: absolute;}
+
+#menu {background-color: white;
+       padding: 5px;}
+
+a {text-decoration: none;
+   color: #5F94C5;
+   margin: 200px;}
+
+h1 {color: #1D6BAF;}
+
+#foot {color: #5F94C5;
+       background-color: white;
+       padding: 5px;
+       text-align: center;}
