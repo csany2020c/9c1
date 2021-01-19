@@ -1,0 +1,24 @@
+A feladat megoldását SAJAT_NEV.ZIP állományba csomagolja az összes erőforrás fájllal együtt, majd töltse fel az 1 db állomány a classroomba.
+
+index.html módosítása
+
+1. Az oldal címe "Virtuális gépek" legyen a bögésző keretén.
+2. A teljes oldal látható tartalmát tegye bele egy content azonosítőjú div elembe.
+3. Illessze be a <div class="virtual" title="My laptop"> elemen belülte a dos.png, linux.jpg, windows2.jpg és xp.png képeket.
+4. Ha a képek nem jelennek meg, vagy fölé húzzuk az egeret, akkor jelenjen meg az operációs rendszer neve.
+5. Adjon hozzá még egy H1 és P-ből álló blokkot, amelynek H1 szövege: "Eddigi tapasztalataim a virtuális gépekkel kapcsolatban", és a P elembe fogalmazzon meg pár mondatot ezzel kapcsolatban.
+6. A Mátrix és a 13. emelet filmekről szóló cikket körülvevő div elemnek adja a film css osztályt.
+
+index.css módosítása
+1. Az összes CSS elem kiválasztójával az összes elemre alkalmazza: A doboz méretezésénél a width és height értékbe számolja bele a padding és border méreteket is.
+2. Az összes CSS elem kiválasztójával az összes elemre alkalmazza: Az összes elem betűtípusa munospace legyen.
+3. A H1 első előfordulásánál 20 pixel legyen a felső margó.
+4. A vitrual osztály háttérképe legyen a laptop.jpg.
+5. A .virtual img-ből származó pszeudo elemeken belül helyezze el a mintának megfelelően a laptop képernyőjén a képeket.
+6. A filmekhez tartozó képek legyenek bal oldalon.
+7. A filmekhez tartozó képek szélessége legyen 200px.
+8. A filmekhez tartozó képek felső margója legyen 32px.
+9. A references osztály blokk szintű elemhez tartozik. A blokk szintű elem legyen középen.
+
+
+A feladat megoldását SAJAT_NEV.ZIP állományba csomagolja az összes erőforrás fájllal együtt, majd töltse fel az 1 db állomány a classroomba.
